@@ -2,7 +2,9 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p El buen uso de las herramientas TIC, sin importar el campo de aplicación, una mejora en el tratamiento y análisis de la información, en la gestión de procesos y por ende, en la toma de decisiones.
+
+    p.mb-5 A continuación se presenta un esquema que resume lo desarrollado. 
 
     .row.justify-content-center
       .col-lg-10.mb-5
