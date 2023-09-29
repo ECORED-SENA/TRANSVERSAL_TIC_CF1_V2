@@ -24,7 +24,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Para consultar más información acerca del tema acceder al libro sistema operativo, búsqueda de información: Internet/Intranet y correo electrónico Página 16-17.
+                  p Para conocer más sobre la temática, se sugiere acceder al siguiente libro y consultar las páginas 16 y 17.
                   p.mb-0 Ibarra Sixto, J. I. (2013). #[i Manual sistema operativo, búsqueda de la información: Internet/intranet y correo electrónico]. Editorial CEP. 
                 .col-sm-auto
                   a.boton.color-acento-contenido(href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/50724?page=19" target="_blank")
@@ -45,7 +45,7 @@
           .col-auto
               img.img-a.img-t(src='@/assets/curso/temas/pages/tema_1/img_3.png').img-fluid
           .col
-              p Según (Gómez de Silva Garza & Ania Briseño, 2008), el #[i software] de sistema está constituido por los programas que se encargan del control y administración de los recursos de cómputo y los que permiten la interacción entre los usuarios y los sistemas de aplicación o el hardware. 
+              p Según (Gómez de Silva Garza & Ania Briseño, 2008), el #[i software] de sistema está constituido por los programas que se encargan del control y administración de los recursos de cómputo y los que permiten la interacción entre los usuarios y los sistemas de aplicación o el #[i hardware]. 
 
               p Ejemplos de este tipo de #[i software] son los traductores (compiladores, intérpretes y ensambladores) y los sistemas operativos como Windows, XP o Vista, y varias versiones de Unix, por ejemplo, AIX de IBM. En la actualidad se cuenta con versiones más actualizadas como son Android, IOS, Windows 10, que funcionan inclusive en equipos móviles, generando mayor rendimiento en los dispositivos.
 
