@@ -245,7 +245,7 @@ export default {
     {
       termino: 'LibreOffice',
       significado:
-        'es un paquete de <i>Software</i> de oficina libre y de código abierto desarrollado por The Document Foundation.',
+        'es un paquete de <i>software</i> de oficina libre y de código abierto desarrollado por The Document Foundation.',
     },
     {
       termino: 'Microsoft',
@@ -275,7 +275,7 @@ export default {
     {
       termino: 'Sistema operativo',
       significado:
-        'es el conjunto de programas informáticos que permite la administración eficaz de los recursos de una computadora es conocido como sistema operativo o <i>Software</i> de sistema. Estos programas comienzan a trabajar apenas se enciende el equipo, ya que gestionan el hardware desde los niveles más básicos y permiten además la interacción con el usuario.',
+        'es el conjunto de programas informáticos que permite la administración eficaz de los recursos de una computadora es conocido como sistema operativo o <i>software</i> de sistema. Estos programas comienzan a trabajar apenas se enciende el equipo, ya que gestionan el hardware desde los niveles más básicos y permiten además la interacción con el usuario.',
     },
     {
       termino: '<i>Software</i>',
@@ -290,7 +290,7 @@ export default {
     {
       termino: 'WWW',
       significado:
-        'son las iniciales que identifican a la expresión inglesa World Wide Web, el sistema de documentos de hipertexto que se encuentran enlazados entre sí y a los que se accede por medio de internet. A través de un <i>Software</i> conocido como navegador, los usuarios pueden visualizar diversos sitios web (los cuales contienen texto, imágenes, videos y otros contenidos multimedia) y navegar a través de ellos mediante los hipervínculos.',
+        'son las iniciales que identifican a la expresión inglesa World Wide Web, el sistema de documentos de hipertexto que se encuentran enlazados entre sí y a los que se accede por medio de internet. A través de un <i>software</i> conocido como navegador, los usuarios pueden visualizar diversos sitios web (los cuales contienen texto, imágenes, videos y otros contenidos multimedia) y navegar a través de ellos mediante los hipervínculos.',
     },
   ],
   referencias: [
