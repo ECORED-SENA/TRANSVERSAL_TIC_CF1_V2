@@ -13,7 +13,7 @@
 
     p.mt-5 Se define #[i software] como “el conjunto de componentes lógicos que hacen posible la realización de tareas específicas” (Carmona Romera, 2017).
 
-    p Tomando como base esta definición y su aplicación en el área de la confección, será de gran utilidad el conocimiento y dominio de herramientas tecnológicas que permitan mejorar la productividad en los   procesos de diseño y  confección de modas, tales como,   procesadores de texto, hojas electrónicas, presentaciones ejecutivas y bases de datos, junto con el conocimiento y dominio del ciberespacio y herramientas colaborativas.   
+    p Tomando como base esta definición y su aplicación, será de gran utilidad el conocimiento y dominio de herramientas tecnológicas que permitan mejorar la productividad a través de procesadores de texto, hojas electrónicas, presentaciones ejecutivas y bases de datos, junto con el conocimiento y dominio del ciberespacio y herramientas colaborativas.   
 
     .row.justify-content-center.align-items-center         
       .col-lg-10

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Tecnologías de la información y la comunicación (TIC)',
     descripcionCurso:
-      'La sociedad ha avanzado a pasos agigantados en la moda, en la tecnología, en la ciencia y en muchas otras áreas del conocimiento. La informática se encarga del estudio del <i>hardware</i>, las redes de datos y el <i>software</i> necesario, para tratar la información de manera automática y el cual se convierte en factor primordial a la hora de gestionar la información y datos en formato digital. ',
+      'La sociedad ha avanzado a pasos agigantados, en la tecnología, en la ciencia y en muchas otras áreas del conocimiento. La informática se encarga del estudio del <i>hardware</i>, las redes de datos y el <i>software</i> necesario, para tratar la información de manera automática y el cual se convierte en factor primordial a la hora de gestionar la información y datos en formato digital. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
